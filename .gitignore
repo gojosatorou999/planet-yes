@@ -1,0 +1,9 @@
+node_modules
+dist
+planet-yes
+.claude
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
